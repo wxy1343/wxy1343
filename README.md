@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wxy1343&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="wxy1343's github stats" />
 </a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wxy1343&layout=compact&theme=radical" />
@@ -24,6 +25,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/wxy1343/aliyunpan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wxy1343&repo=aliyunpan&theme=radical" />
+</a>
+<a href="https://github.com/wxy1343/MagiskOnWSALocal">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wxy1343&repo=MagiskOnWSALocal&theme=radical" />
 </a>
 <a href="https://github.com/wxy1343/img-spider">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
