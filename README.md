@@ -29,3 +29,5 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wxy1343&repo=img-spider&theme=radical" />
 </a>
+
+![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
